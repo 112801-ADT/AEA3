@@ -1,0 +1,20 @@
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Data and Backups (User specific)
+data/
+backup/
+temp_voice_*.mp3
